@@ -3,6 +3,17 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2019年2月
+
+|パーティー|日時|場所|
+|-|-|-|
+|[Harim@s Vol.3](https://twipla.jp/events/346842)|2019年2月2日22時〜|加古川cafeGEEEK|
+|[h@ppy space](https://twipla.jp/events/355801)|2019年2月9日13時半〜|富山市ログセッション|
+|[アイマスガールズナイト](http://alchemi.jp/event.html)|2019年2月13日19時〜|秋葉原あるけみすと|
+|[ほぴ☆じゃむ↑7回目 DANCE MASTER実験部](https://twipla.jp/events/358666)|2019年2月14日19時〜|中野heavysickZERO|
+|[第5回アイマすたぁ土曜の部](https://twipla.jp/events/357301)|2019年2月16日19時〜|新宿あるけみすたぁ|
+
+# 2019年1月
 
 |パーティー|日時|場所|
 |-|-|-|
