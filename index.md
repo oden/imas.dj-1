@@ -12,6 +12,7 @@ title: アイマスDJイベントまとめ
 |[アイマスガールズナイト](http://alchemi.jp/event.html)|2019年2月13日19時〜|秋葉原あるけみすと|
 |[ほぴ☆じゃむ↑7回目 DANCE MASTER実験部](https://twipla.jp/events/358666)|2019年2月14日19時〜|中野heavysickZERO|
 |[第5回アイマすたぁ土曜の部](https://twipla.jp/events/357301)|2019年2月16日19時〜|新宿あるけみすたぁ|
+|[アイマすたぁ平日の部](http://www.alchemistar.jp)|2019年2月26日19時〜|新宿あるけみすたぁ|
 
 # 2019年1月
 
