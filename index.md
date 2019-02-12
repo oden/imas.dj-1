@@ -11,7 +11,7 @@ title: アイマスDJイベントまとめ
 |[h@ppy space](https://twipla.jp/events/355801)|2019年2月9日13時半〜|富山市ログセッション|
 |[アイマスガールズナイト](http://alchemi.jp/event.html)|2019年2月13日19時〜|秋葉原あるけみすと|
 |[ほぴ☆じゃむ↑7回目 DANCE MASTER実験部](https://twipla.jp/events/358666)|2019年2月14日19時〜|中野heavysickZERO|
-|[Hotel Raizeenside 25](http://www.raizeen.com/calender)|2019年2月15日19時〜|中のアニソンDJ-club雷神|
+|[Hotel Raizeenside 25](http://www.raizeen.com/calender)|2019年2月15日19時〜|中野アニソンDJ-club雷神|
 |[第5回アイマすたぁ土曜の部](https://twipla.jp/events/357301)|2019年2月16日19時〜|新宿あるけみすたぁ|
 |[アイマすたぁ平日の部](http://www.alchemistar.jp)|2019年2月26日19時〜|新宿あるけみすたぁ|
 
