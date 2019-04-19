@@ -3,6 +3,14 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2019年4月
+
+|パーティー|日時|場所|
+|-|-|-|
+|[ほぴ☆じゃむ↑9回目 DANCE MASTER実験部](https://twipla.jp/events/358671)|2019年4月11日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)|
+|[HOTEL 雷神 MIDNIGHT](https://twipla.jp/events/374624)|2019年4月19日19時〜|[中野雷神](http://www.raizeen.com/)|
+|[アイマすたぁ WEEKDAY PARTY THE 13th & 1st Anniversary!!](https://twipla.jp/events/375788)|2019年4月23日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
+
 # 2019年3月
 
 |パーティー|日時|場所|
