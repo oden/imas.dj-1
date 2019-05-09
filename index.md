@@ -9,7 +9,7 @@ title: アイマスDJイベントまとめ
 |-|-|-|
 |[アイマスガールズナイト](http://alchemi.jp/event.html)|2019年5月8日19時〜|[秋葉原あるけみすと](http://alchemi.jp/)|
 |[ほぴ☆じゃむ↑10回目 DANCE MASTER実験部](https://twipla.jp/events/376625)|2019年5月9日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)|
-|[Hotel Raizeenside 28](https://twipla.jp/events/381332)|2019年4月19日19時〜|[中野雷神](http://www.raizeen.com/)|
+|[Hotel Raizeenside 28](https://twipla.jp/events/381332)|2019年5月17日19時〜|[中野雷神](http://www.raizeen.com/)|
 
 # 2019年4月
 	
