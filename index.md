@@ -11,6 +11,7 @@ title: アイマスDJイベントまとめ
 |[ほぴ☆じゃむ↑10回目 DANCE MASTER実験部](https://twipla.jp/events/376625)|2019年5月9日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)|
 |[GOTT@NI☆DAYS!!! DAY7](https://twipla.jp/events/364017)|2019年5月17日18時〜|[神戸Acqua](http://acqua-kobe.net)|
 |[Hotel Raizeenside 28](https://twipla.jp/events/381332)|2019年5月17日19時〜|[中野雷神](http://www.raizeen.com/)|
+|[アイマすたぁ WEEKDAY PARTY THE 14th](https://twipla.jp/events/381189)|2019年5月28日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 
 # 2019年4月
 	
