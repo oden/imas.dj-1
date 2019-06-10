@@ -9,6 +9,7 @@ title: アイマスDJイベントまとめ
 |-|-|-|
 |[パティマス](https://twipla.jp/events/381640)|2019年6月1日12時20分〜|[ライブハウスVOXX](http://www.live-voxx.com/)|
 |[AoM@Sラウンジパーティ](https://twipla.jp/events/380937)|2019年6月8日21時〜|[八戸市中心街FLAT](http://bar-flat.com/)|
+|[アイマスガールズナイト](http://alchemi.jp/event.html)|2019年6月12日19時〜|[秋葉原あるけみすと](http://alchemi.bar/events/)|
 |[第7回アイマすたぁ土曜の部](https://twipla.jp/events/379049)|2019年6月15日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 |[Harim@s](https://twipla.jp/events/375555)|2019年6月15日22時〜|[加古川CAFE GEEEK](https://8760.jp//)|
 |[Hotel Raizeenside 29](https://twipla.jp/events/386731)|2019年6月21日19時半〜|[中野雷神](http://www.raizeen.com/)|
