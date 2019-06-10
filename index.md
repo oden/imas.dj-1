@@ -7,7 +7,7 @@ title: アイマスDJイベントまとめ
 
 |パーティー|日時|場所|
 |-|-|-|
-|[パティマス](https://twipla.jp/events/381640)|2019年6月1日時間不明|[ライブハウスVOXX](http://www.live-voxx.com/)|
+|[パティマス](https://twipla.jp/events/381640)|2019年6月1日12時20分〜|[ライブハウスVOXX](http://www.live-voxx.com/)|
 |[AoM@Sラウンジパーティ](https://twipla.jp/events/380937)|2019年6月8日21時〜|[八戸市中心街FLAT](http://bar-flat.com/)|
 |[第7回アイマすたぁ土曜の部](https://twipla.jp/events/379049)|2019年6月15日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 |[Harim@s](https://twipla.jp/events/375555)|2019年6月15日22時〜|[加古川CAFE GEEEK](https://8760.jp//)|
