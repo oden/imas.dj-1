@@ -13,6 +13,7 @@ title: アイマスDJイベントまとめ
 |[第7回アイマすたぁ土曜の部](https://twipla.jp/events/379049)|2019年6月15日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 |[Harim@s](https://twipla.jp/events/375555)|2019年6月15日22時〜|[加古川CAFE GEEEK](https://8760.jp//)|
 |[Hotel Raizeenside 29](https://twipla.jp/events/386731)|2019年6月21日19時半〜|[中野雷神](http://www.raizeen.com/)|
+|[アイマすたぁ WEEKDAY PARTY THE 15th](https://twipla.jp/events/389593)|2019年6月25日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 
 # 2019年5月
 
