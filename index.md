@@ -7,7 +7,7 @@ title: アイマスDJイベントまとめ
 
 |パーティー|日時|場所|
 |-|-|-|
-|[アイマスガールズナイト](http://alchemi.jp/event.html)|2019年7月10日19時〜|[秋葉原あるけみすと](http://alchemi.bar/events/)|
+|[アイマスガールズナイト](http://alchemi.bar/events/)|2019年7月10日19時〜|[秋葉原あるけみすと](http://alchemi.bar/events/)|
 |[ほぴ☆じゃむ↑11回目 DANCE MASTER実験部](https://twipla.jp/events/376626)|2019年7月11日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)|
 |[Hotel Raizeenside#30 オールナイト](https://twipla.jp/events/393570)|2019年7月19日19時半〜|[中野雷神](http://www.raizeen.com/)|
 |[アイマすたぁ WEEKDAY PARTY THE 15th](https://twipla.jp/events/393161)|2019年7月23日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
