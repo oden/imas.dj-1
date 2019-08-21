@@ -3,6 +3,18 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2019年8月
+
+|パーティー|日時|場所|
+|-|-|-|
+|[THE IDOLM@STER SideP〜5th Season〜](https://twipla.jp/events/389631)|2019年8月4日12時〜|[川崎月明かり夢てらす](http://tsukiyume.com/)|
+|[Five ST@RS Meeting!!!!! 〜Muddling Tuning Parade!!!〜](https://twipla.jp/events/384275)|2019年8月10日17時〜|[麹町C-WORK](https://cwork-cck.jp/access/)|
+|[アイマスガールズナイト](http://alchemi.bar/events/)|2019年8月14日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)|
+|[Hotel Raizeenside#31](https://twipla.jp/events/400151)|2019年8月16日19時半〜|[中野雷神](http://www.raizeen.com/)|
+|[YUME-315 vol.3](https://twipla.jp/events/399373)|2019年8月18日14時〜|[fai青山B1F](http://www.fai-aoyama.com/)|
+|[GOTT@NI☆DAYS!!!〜DAY8〜](https://twipla.jp/events/393077)|2019年8月24日13時半〜|[高円寺DeLIVE](http://delive.tokyo/)|
+|[アイマすたぁ WEEKDAY PARTY THE 15th](https://twipla.jp/events/400386)|2019年8月27日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
+
 # 2019年7月
 
 |パーティー|日時|場所|
