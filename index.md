@@ -3,6 +3,12 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2019年10月
+
+|パーティー|日時|場所|
+|-|-|-|
+|[M@STER BOWL #4](https://twipla.jp/events/399180)|26日13時15分〜|[大阪日本橋Entertainment BAR Guild 4階](http://barguild.com/)|
+
 # 2019年9月
 
 |パーティー|日時|場所|
