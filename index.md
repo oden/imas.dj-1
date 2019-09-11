@@ -3,6 +3,17 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2019年9月
+
+|パーティー|日時|場所|
+|-|-|-|
+|[アイマスガールズナイト](http://alchemi.bar/events/)|11日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)|
+|[ほぴ☆じゃむ↑12回目 DANCE MASTER実験部](https://twipla.jp/events/376628)|12日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)|
+|[北陸アイマスオンリーイベント【H@ppy Space 2nd】](https://twipla.jp/events/384009)|14日13時半〜|[金沢etc.link](https://etclink.com)|
+|[第8回アイマすたぁ土曜の部](https://twipla.jp/events/391745)|14日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
+|[#ますてる Vol.2 -Cinderella's Palette-](https://twipla.jp/events/397871)|15日13時〜|[四谷サロンガイヤール](https://gaillard.jp)|
+|[Hotel Raizeenside#32](https://twipla.jp/events/404983)|20日19時〜|[中野雷神](http://www.raizeen.com/)|
+
 # 2019年8月
 
 |パーティー|日時|場所|
