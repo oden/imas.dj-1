@@ -9,7 +9,7 @@ title: アイマスDJイベントまとめ
 |-|-|-|
 |[アイドルマスター違反者講習会](https://twipla.jp/events/387369)|13日14時〜|[新大久保ユニークラボラトリー](https://www.unique-laboratory.tokyo)|
 |[H@PPY M@STER Vol.2](https://twipla.jp/events/399985)|13日13時〜|[大阪日本橋Entertainment BAR Guild 4&6階](http://barguild.com/)|
-|[M@STER BOWL #4](https://twipla.jp/events/399180)|26日13時15分〜|[大阪日本橋Entertainment BAR Guild 4階](http://barguild.com/)|
+|[M@STER BOWL #4](https://twipla.jp/events/399180)|26日13時半〜|[大阪日本橋Entertainment BAR Guild 4階](http://barguild.com/)|
 
 # 2019年9月
 
