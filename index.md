@@ -12,6 +12,7 @@ title: アイマスDJイベントまとめ
 |[H@PPY M@STER Vol.2](https://twipla.jp/events/399985)|13日13時〜|[大阪日本橋Entertainment BAR Guild 4&6階](http://barguild.com/)|
 |[アイマすたぁ WEEKDAY PARTY](http://www.alchemistar.jp/event.html)|22日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 |[M@STER BOWL #4](https://twipla.jp/events/399180)|26日13時半〜|[大阪日本橋Entertainment BAR Guild 4階](http://barguild.com/)|
+|[アイマス楽曲やアニソンなどをみんなで聞いてワイワイと高まる会](https://twipla.jp/events/411347)|26日12時〜|[スタジオエレ Aスタジオ](https://www.dancestudio-ailee.jp)|
 
 # 2019年9月
 
