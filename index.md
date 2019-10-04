@@ -7,8 +7,10 @@ title: アイマスDJイベントまとめ
 
 |パーティー|日時|場所|
 |-|-|-|
+|[アイマスガールズナイト](http://alchemi.bar/events/)|9日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)|
 |[アイドルマスター違反者講習会](https://twipla.jp/events/387369)|13日14時〜|[新大久保ユニークラボラトリー](https://www.unique-laboratory.tokyo)|
 |[H@PPY M@STER Vol.2](https://twipla.jp/events/399985)|13日13時〜|[大阪日本橋Entertainment BAR Guild 4&6階](http://barguild.com/)|
+|[アイマすたぁ WEEKDAY PARTY THE 15th](http://www.alchemistar.jp/event.html)|22日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 |[M@STER BOWL #4](https://twipla.jp/events/399180)|26日13時半〜|[大阪日本橋Entertainment BAR Guild 4階](http://barguild.com/)|
 
 # 2019年9月
