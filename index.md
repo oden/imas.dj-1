@@ -3,6 +3,16 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2019年11月
+
+パーティー|日時|場所
+-|-|-
+[7th Live After P@arty!!!](https://twipla.jp/events/407736)|9日23時〜|[栄TIGHT ROPE](http://www.tight-rope.info)
+[ほぴ☆じゃむ↑13回目 DANCE MASTER実験部](https://twipla.jp/events/407415)|14日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
+[SCGP&SMLP](https://twipla.jp/events/406217)|17日13時〜|[仙台Music Dining ark](https://ark-sendai.net)
+[SCGP&SMLP](https://twipla.jp/events/406217)|17日13時〜|[仙台Music Dining ark](https://ark-sendai.net)
+[しんけん!劇場』Vol.02](https://twipla.jp/events/388143)|23日13時〜|[大分BackStage](http://www.backstage-oita.com)
+
 # 2019年10月
 
 |パーティー|日時|場所|
