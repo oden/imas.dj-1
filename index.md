@@ -11,7 +11,7 @@ title: アイマスDJイベントまとめ
 [ほぴ☆じゃむ↑13回目 DANCE MASTER実験部](https://twipla.jp/events/407415)|14日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [SCGP&SMLP](https://twipla.jp/events/406217)|17日13時〜|[仙台Music Dining ark](https://ark-sendai.net)
 [しんけん!劇場』Vol.02](https://twipla.jp/events/388143)|23日13時〜|[大分BackStage](http://www.backstage-oita.com)
-[～理由あって、オンリー！～](https://twipla.jp/events/409777)|24日13時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
+[理由あって、オンリー！](https://twipla.jp/events/409777)|24日13時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 
 # 2019年10月
 
