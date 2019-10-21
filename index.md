@@ -21,7 +21,7 @@ title: アイマスDJイベントまとめ
 |[アイドルマスター違反者講習会](https://twipla.jp/events/387369)|13日14時〜|[新大久保ユニークラボラトリー](https://www.unique-laboratory.tokyo)|
 |[H@PPY M@STER Vol.2](https://twipla.jp/events/399985)|13日13時〜|[大阪日本橋Entertainment BAR Guild 4&6階](http://barguild.com/)|
 |[アイマスで殴り合いB2Bスペシャル〜Hotel Raizeenside#33](https://twipla.jp/events/410233)|18日19時〜|[中野雷神](http://www.raizeen.com/)|
-|[アイマすたぁ ~WEEKDAY~ 祝日 PARTY THE 19th](https://twipla.jp/events/414050)|22日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
+|[アイマすたぁ 祝日 PARTY THE 19th](https://twipla.jp/events/414050)|22日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 |[M@STER BOWL #4](https://twipla.jp/events/399180)|26日13時半〜|[大阪日本橋Entertainment BAR Guild 4階](http://barguild.com/)|
 |[アイマス楽曲やアニソンなどをみんなで聞いてワイワイと高まる会](https://twipla.jp/events/411347)|26日12時〜|[スタジオエレ Aスタジオ](https://www.dancestudio-ailee.jp)|
 
