@@ -7,6 +7,8 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
+[#ますてる Vol.3 -Shiny 5Fr@gments-](https://twipla.jp/events/407957)|2日13時〜|[御成門 KIZASU Lounge](https://www.kizasu-lounge.tokyo)
+[[知り合い限定]アイマスオンリーアニクラ](https://twipla.jp/events/414969)|2日22時〜|池袋のレンタルルーム
 [7th Live After P@arty!!!](https://twipla.jp/events/407736)|9日23時〜|[栄TIGHT ROPE](http://www.tight-rope.info)
 [ほぴ☆じゃむ↑13回目 DANCE MASTER実験部](https://twipla.jp/events/407415)|14日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [SCGP&SMLP](https://twipla.jp/events/406217)|17日13時〜|[仙台Music Dining ark](https://ark-sendai.net)
