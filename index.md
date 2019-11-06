@@ -10,10 +10,12 @@ title: アイマスDJイベントまとめ
 [#ますてる Vol.3 -Shiny 5Fr@gments-](https://twipla.jp/events/407957)|2日13時〜|[御成門 KIZASU Lounge](https://www.kizasu-lounge.tokyo)
 [[知り合い限定]アイマスオンリーアニクラ](https://twipla.jp/events/414969)|2日22時〜|池袋のレンタルルーム
 [7th Live After P@arty!!!](https://twipla.jp/events/407736)|9日23時〜|[栄TIGHT ROPE](http://www.tight-rope.info)
+[アイマスガールズナイト](http://alchemi.bar/events/)|13日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
 [ほぴ☆じゃむ↑13回目 DANCE MASTER実験部](https://twipla.jp/events/407415)|14日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [SCGP&SMLP](https://twipla.jp/events/406217)|17日13時〜|[仙台Music Dining ark](https://ark-sendai.net)
 [しんけん!劇場 Vol.02](https://twipla.jp/events/388143)|23日13時〜|[大分BackStage](http://www.backstage-oita.com)
 [理由あって、オンリー！](https://twipla.jp/events/409777)|24日13時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
+[アイマすたぁ WEEKDAY PARTY](http://www.alchemistar.jp)|26日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 
 # 2019年10月
 
