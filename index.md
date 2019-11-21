@@ -7,11 +7,13 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
+[シャレます](https://anievex.com/event/0000809)|1日〜3日|福岡セレクタ
 [#ますてる Vol.3 -Shiny 5Fr@gments-](https://twipla.jp/events/407957)|2日13時〜|[御成門 KIZASU Lounge](https://www.kizasu-lounge.tokyo)
 [[知り合い限定]アイマスオンリーアニクラ](https://twipla.jp/events/414969)|2日22時〜|池袋のレンタルルーム
 [Special 3chord♪ Funky Dancing! Day1](https://idolmaster.jp/event/cinderella7th/information.php)|9日15時〜|[ナゴヤドーム](http://www.nagoya-dome.co.jp)
 [7th Live After P@arty!!!](https://twipla.jp/events/407736)|9日23時〜|[栄TIGHT ROPE](http://www.tight-rope.info)
 [Special 3chord♪ Funky Dancing! Day2](https://idolmaster.jp/event/cinderella7th/information.php)|10日14時〜|[ナゴヤドーム](http://www.nagoya-dome.co.jp)
+[マスプロex](https://twitter.com/orion_niconico/status/1192051798707589120)|18日19時〜|札幌ふぁーすて
 [アイマスガールズナイト](http://alchemi.bar/events/)|13日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
 [ほぴ☆じゃむ↑13回目 DANCE MASTER実験部](https://twipla.jp/events/407415)|14日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [SCGP&SMLP](https://twipla.jp/events/406217)|17日13時〜|[仙台Music Dining ark](https://ark-sendai.net)
