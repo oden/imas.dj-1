@@ -13,10 +13,10 @@ title: アイマスDJイベントまとめ
 [Special 3chord♪ Funky Dancing! Day1](https://idolmaster.jp/event/cinderella7th/information.php)|9日15時〜|[ナゴヤドーム](http://www.nagoya-dome.co.jp)
 [7th Live After P@arty!!!](https://twipla.jp/events/407736)|9日23時〜|[栄TIGHT ROPE](http://www.tight-rope.info)
 [Special 3chord♪ Funky Dancing! Day2](https://idolmaster.jp/event/cinderella7th/information.php)|10日14時〜|[ナゴヤドーム](http://www.nagoya-dome.co.jp)
-[マスプロex](https://twitter.com/orion_niconico/status/1192051798707589120)|18日19時〜|札幌ふぁーすて
 [アイマスガールズナイト](http://alchemi.bar/events/)|13日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
 [ほぴ☆じゃむ↑13回目 DANCE MASTER実験部](https://twipla.jp/events/407415)|14日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [SCGP&SMLP](https://twipla.jp/events/406217)|17日13時〜|[仙台Music Dining ark](https://ark-sendai.net)
+[マスプロex](https://twitter.com/orion_niconico/status/1192051798707589120)|18日19時〜|札幌ふぁーすて
 [しんけん!劇場 Vol.02](https://twipla.jp/events/388143)|23日13時〜|[大分BackStage](http://www.backstage-oita.com)
 [理由あって、オンリー！](https://twipla.jp/events/409777)|24日13時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 [アイマすたぁ WEEKDAY PARTY](http://www.alchemistar.jp)|26日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
