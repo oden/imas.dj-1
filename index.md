@@ -7,7 +7,7 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
-[シャレます](https://anievex.com/event/0000809)|1日〜3日|福岡セレクタ
+[P-FESTA](https://anievex.com/event/0000809)|1日〜3日|福岡セレクタ
 [#ますてる Vol.3 -Shiny 5Fr@gments-](https://twipla.jp/events/407957)|2日13時〜|[御成門 KIZASU Lounge](https://www.kizasu-lounge.tokyo)
 [[知り合い限定]アイマスオンリーアニクラ](https://twipla.jp/events/414969)|2日22時〜|池袋のレンタルルーム
 [Special 3chord♪ Funky Dancing! Day1](https://idolmaster.jp/event/cinderella7th/information.php)|9日15時〜|[ナゴヤドーム](http://www.nagoya-dome.co.jp)
