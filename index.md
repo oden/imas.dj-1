@@ -7,9 +7,11 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
-[P-FESTA](https://anievex.com/event/0000809)|1日〜3日|福岡セレクタ
+[P-FESTA day1](http://twvt.me/P_FESTA_2019)|1日18時〜|福岡セレクタ
 [#ますてる Vol.3 -Shiny 5Fr@gments-](https://twipla.jp/events/407957)|2日13時〜|[御成門 KIZASU Lounge](https://www.kizasu-lounge.tokyo)
+[P-FESTA day2](http://twvt.me/P_FESTA_2019)|2日14時〜|福岡セレクタ
 [[知り合い限定]アイマスオンリーアニクラ](https://twipla.jp/events/414969)|2日22時〜|池袋のレンタルルーム
+[P-FESTA day3](http://twvt.me/P_FESTA_2019)|3日|福岡セレクタ
 [Special 3chord♪ Funky Dancing! Day1](https://idolmaster.jp/event/cinderella7th/information.php)|9日15時〜|[ナゴヤドーム](http://www.nagoya-dome.co.jp)
 [7th Live After P@arty!!!](https://twipla.jp/events/407736)|9日23時〜|[栄TIGHT ROPE](http://www.tight-rope.info)
 [Special 3chord♪ Funky Dancing! Day2](https://idolmaster.jp/event/cinderella7th/information.php)|10日14時〜|[ナゴヤドーム](http://www.nagoya-dome.co.jp)
