@@ -22,6 +22,7 @@ title: アイマスDJイベントまとめ
 [しんけん!劇場 Vol.02](https://twipla.jp/events/388143)|23日13時〜|[大分BackStage](http://www.backstage-oita.com)
 [理由あって、オンリー！](https://twipla.jp/events/409777)|24日13時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 [アイマすたぁ WEEKDAY PARTY](http://www.alchemistar.jp)|26日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
+[第7回 100年経っても〼研アニクラ](https://twipla.jp/events/418462)|29日23時〜|[スタジオよもだ](https://www.studioyomoda.com)
 
 # 2019年10月
 
